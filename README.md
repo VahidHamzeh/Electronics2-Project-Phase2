@@ -1,4 +1,4 @@
-# Electronics 2 Project: Phase 2
+# Electronics2 | Project | Phase2
 
 ## Project Description
 This repository contains the second phase of the Electronics II course project, focusing on the frequency response analysis and small-signal modeling of a MOSFET differential amplifier.
